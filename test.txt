@@ -1,2 +1,7 @@
 abcdefg (delete"e")
+<<<<<<< HEAD
 murata
+=======
+yyyyyyyxxxx
+abcdefg
+>>>>>>> sub1
